@@ -73,7 +73,7 @@ Installation
 2. Install the package PFIM 5.0 beta from the archive ackagePFIM_5.0.tar
 3. The folder for working wihth PFIM 5.0 beta is PackagePFIM 
 
-The paths is : PFIM_v5.0_beta-main\PFIM_v5.0_beta-main\PackagePFIM_5.0.tar\PackagePFIM_5.0\PackagePFIM
+The path is : PFIM_v5.0_beta-main\PFIM_v5.0_beta-main\PackagePFIM_5.0.tar\PackagePFIM_5.0\PackagePFIM
 
 4. When you generate a markdown report for a PFIM project it is saved in the folder PackagePFIM\inst\rmarkdown\templates\pfim_report\skeleton
 
