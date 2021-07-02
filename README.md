@@ -85,7 +85,7 @@ The folder PackagePFIM contains the files for the beta version of the package PF
 2. DocumentationDev_PFIM5.0.pdf : the documentation of all the classes, methods and functions
 3. tests, a folder that contains many tests for the :
 - evaluation of PK, PKPD and PKPKPD models : analytic, ode and ode with infusion
-- optimisation for PK models analytic and ode & PKPD models with the : simplex, multiplicative, Fedorov-Wynn, PGB and PSO algorithms 
+- optimisation for PK models analytic and ode & PKPD models with the : simplex, multiplicative, Fedorov-Wynn, PGBO and PSO algorithms 
 4. R : R S4 classes 
 5. inst and man : for documentation and the pdf report of a PFIM project
 
