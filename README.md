@@ -33,6 +33,7 @@ Maintainer:
 
 Description: Evaluate or optimize the Fisher Information Matrix 
              for a population pharmacokinetic/pharmacodynamic model.
+             
 Depends: 
     R (>= 4.0.0)
 
