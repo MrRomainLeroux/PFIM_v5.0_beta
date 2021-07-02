@@ -1,10 +1,20 @@
+*********************************************************
+Package PFIM v5.0 beta
+
+Description, Installation, Content 
+*********************************************************
+
+*********************************************************
+Description 
+*********************************************************
+
 Package: PackagePFIM 
 
 Type: Package
 
 Title: Population Fisher Information Matrix
 
-Version: 5.0 beta
+Version: 5.0 beta version
 
 Date: 2020-18-06
 
@@ -24,13 +34,13 @@ Maintainer:
 Description: Evaluate or optimize the Fisher Information Matrix 
              for a population pharmacokinetic/pharmacodynamic model.
 Depends: 
-    R (>= 3.3)
+    R (>= 4.0.0)
 
 License: GPL (>=2)
 
 Suggests: testhat, knitr
 
-Imports: 
+The package PFIM5.0 use the following packages:
     methods,
     pracma,
     utils,
@@ -49,8 +59,33 @@ Imports:
     knitr,
     qpdf,
     stats
-LinkingTo:
     Rcpp,
     RcppArmadillo
-RoxygenNote: 7.1.1
+    
+The documentation is generated with RoxygenNote: 7.1.1
+
+*********************************************************
+Installation 
+*********************************************************
+
+1. Download the file  PFIM_v5.0_beta-main.zip
+2. Install the package PFIM 5.0 beta from the archive ackagePFIM_5.0.tar
+3. The folder for working wihth PFIM 5.0 beta is PackagePFIM 
+
+The paths is : PFIM_v5.0_beta-main\PFIM_v5.0_beta-main\PackagePFIM_5.0.tar\PackagePFIM_5.0\PackagePFIM
+
+*********************************************************
+Content 
+*********************************************************
+
+The folder PackagePFIM contains the files for the beta version of the package PFIM5.0 :
+
+1. DESCRIPTION and NAMESPACE : for package description and compilation
+2. DocumentationDev_PFIM5.0.pdf : the documentation of all the classes, methods and functions
+3. tests, a folder that contains many tests for the :
+- evaluation of PK, PKPD and PKPKPD models : analytic, ode and ode with infusion
+- optimisation for PK models analytic and ode & PKPD models with the : simplex, multiplicative, Fedorov-Wynn, PGB and PSO algorithms 
+4. R : R S4 classes 
+5. inst and man : for documentation and the pdf report of a PFIM project
+
 
