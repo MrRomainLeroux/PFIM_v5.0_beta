@@ -1,8 +1,8 @@
-*********************************************************
+**************************************************************
 Package PFIM v5.0 beta
 
-Description, Installation, Content 
-*********************************************************
+Description, Installation, Content, Reporting bugs and issues
+**************************************************************
 
 *********************************************************
 Description 
@@ -91,4 +91,11 @@ The folder PackagePFIM contains the files for the beta version of the package PF
 4. R : R S4 classes 
 5. inst and man : for documentation and the pdf report of a PFIM project
 
+*********************************************************
+Reporting Bugs and Issues
+*********************************************************
 
+To report bugs and issues please use the tab called "Issues" at the top of GitHub repositories.
+ 
+ 
+ 
