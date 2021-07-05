@@ -1,7 +1,7 @@
 **************************************************************
 Package PFIM v5.0 beta
 
-Description, Installation, Content, Reporting Bugs and Issues
+Description, Installation, Content, Reporting bugs and issues
 **************************************************************
 
 *********************************************************
