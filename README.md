@@ -92,7 +92,7 @@ The folder PackagePFIM contains the files for the beta version of the package PF
 5. inst and man : for documentation and the pdf report of a PFIM project
 
 *********************************************************
-Reporting Bugs and Issues
+Reporting bugs and issues
 *********************************************************
 
 To report bugs and issues please use the tab called "Issues" at the top of GitHub repositories.
